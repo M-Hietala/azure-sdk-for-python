@@ -1,6 +1,6 @@
 # Release History
 
-## 1.0.0b7 (TBD)
+## 1.0.0b7 (unreleased)
 
 ### Bugs Fixed
 
